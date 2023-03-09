@@ -5,6 +5,6 @@ pipeline {
 	    steps {
           sh 'echo "Build completed."'
         }
-	  }
+      }
     }
 }
